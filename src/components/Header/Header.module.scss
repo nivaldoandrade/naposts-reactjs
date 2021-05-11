@@ -1,0 +1,12 @@
+.container {
+	width: 100%;
+	max-width: 721px;
+	margin: 0 auto;
+	padding: 2rem;
+}
+
+@media (max-width: 720px) {
+	.container {
+		text-align: center;
+	}
+}
