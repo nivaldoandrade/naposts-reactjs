@@ -1,7 +1,7 @@
 <h1 align="center">NA posts</h1>
 
 
-<p align="center"><a href="https://www.youtube.com/watch?v=Y4R8S1G7e3-8" target="_blank"><img src="https://img.youtube.com/vi/4R8S1G7e3-8/0.jpg"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=4R8S1G7e3-8" target="_blank"><img src="https://img.youtube.com/vi/4R8S1G7e3-8/0.jpg"/></a></p>
 
 
 O naposts é simples blog integrado com CMS Prismic e seção de comentários com utterances.
